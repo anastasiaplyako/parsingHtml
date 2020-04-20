@@ -1,0 +1,23 @@
+{
+  "name": "parsing_html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "latest",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "needle": "^2.4.1",
+    "ngx-dropzone-wrapper": "^9.0.0",
+    "node": "^13.13.0",
+    "pg": "latest",
+    "request": "^2.88.2"
+  }
+}
