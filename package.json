@@ -14,10 +14,20 @@
     "body-parser": "latest",
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
+    "live-server": "^1.2.1",
     "needle": "^2.4.1",
     "ngx-dropzone-wrapper": "^9.0.0",
     "node": "^13.13.0",
-    "pg": "latest",
-    "request": "^2.88.2"
+    "node-html-parser": "^1.2.16",
+    "pg": "^8.0.3",
+    "pg-promise": "^10.5.2",
+    "request": "^2.88.2",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "config": "^3.3.1",
+    "core-util-is": "^1.0.2",
+    "ejs": "^3.0.2",
+    "faker": "^4.1.0",
+    "terser": "^4.6.10"
   }
 }
